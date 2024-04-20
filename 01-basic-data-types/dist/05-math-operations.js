@@ -20,4 +20,4 @@ console.log(mathOperations(15, 5, "/"));
 console.log(mathOperations(3, 5, "*"));
 console.log(mathOperations(3, 10, "%"));
 console.log(mathOperations(3, 2, "**"));
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=05-math-operations.js.map

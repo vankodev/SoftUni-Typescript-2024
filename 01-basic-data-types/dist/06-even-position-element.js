@@ -9,4 +9,4 @@ function findEven(arr) {
 }
 console.log(findEven(["20", "30", "40", "50", "60"]));
 console.log(findEven(["5", "10"]));
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=06-even-position-element.js.map

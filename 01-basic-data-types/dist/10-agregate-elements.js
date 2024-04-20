@@ -8,4 +8,4 @@ function aggregateElements(elements) {
 }
 aggregateElements([1, 2, 3]);
 aggregateElements([2, 4, 8, 16]);
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=10-agregate-elements.js.map

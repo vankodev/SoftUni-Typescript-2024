@@ -6,4 +6,4 @@ function sortArray(arr) {
 }
 console.log(sortArray([4, 7, 2, 5]));
 console.log(sortArray([3, 19, 14, 7, 2, 19, 6]));
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=07-bigger-half.js.map

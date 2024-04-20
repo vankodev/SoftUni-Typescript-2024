@@ -7,4 +7,4 @@ function numSum(a, b) {
 }
 console.log(numSum(1, 5));
 console.log(numSum(-8, 20));
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=03-sum-of-numbers.js.map

@@ -3,4 +3,4 @@ function calcArea(a, b) {
 }
 console.log(calcArea(5, 7));
 console.log(calcArea(6, 8));
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=01-calculate-rectangle-area.js.map
