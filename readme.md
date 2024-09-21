@@ -1,24 +1,22 @@
 # SoftUni TypeScript Coursework
 
-This repository contains the exercises and projects completed during the **TypeScript** course at **SoftUni**, which took place in **April 2024**. The course covered both fundamental and advanced TypeScript features, focusing on static typing, object-oriented programming (OOP), generics, modules, and decorators, while offering hands-on experience through a final project.
+## Description
 
-## Course Overview
-
-The **TypeScript** course dives deep into one of the most popular languages for building both server-side and front-end applications. Created by Microsoft, TypeScript enhances JavaScript with **static typing**, allowing for more robust and maintainable code. The course not only introduces basic types and structures but also emphasizes **OOP** principles using TypeScript—working with classes, inheritance, abstraction, interfaces, and generics. Additionally, the course explores advanced features like modules and decorators, culminating in a workshop where all knowledge is applied to building a complete TypeScript application.
+This repository contains the exercises and projects completed during the **TypeScript** course at **SoftUni**. The course focuses on mastering TypeScript, a superset of JavaScript that adds static typing, enabling the development of scalable and maintainable applications. Throughout the course, the exercises cover a wide range of topics including basic and advanced data types, object-oriented programming with classes and interfaces, generics, modules, and decorators. Practical workshops also involve building complete applications using these concepts.
 
 ## Skills Acquired
 
-- **Static Typing**: Mastery of working with statically typed data in TypeScript.
-- **Object-Oriented Programming**: Understanding OOP principles and applying them in TypeScript.
-- **Classes and Interfaces**: Utilizing TypeScript classes, interfaces, and generics to build scalable applications.
-- **Modules and Decorators**: Managing complex projects with modules and enhancing code with decorators.
-- **Application Development**: Building end-to-end applications using TypeScript.
+- Proficiency in working with **statically typed data** in TypeScript
+- Understanding of **object-oriented programming** principles
+- Experience with **classes**, **interfaces**, and **generics**
+- Familiarity with **modules** and **decorators**
+- Ability to develop complete applications using TypeScript
 
-## Course Structure
+## Course Outline
 
-- **Introduction to TypeScript**: Basics of TypeScript, from installation to core features.
-- **Advanced Data Types and Interfaces**: Exploring complex types and using interfaces for type safety.
-- **Object-Oriented Programming**: Building with classes, inheritance, polymorphism, and encapsulation.
-- **Generics**: Implementing reusable components with generics.
-- **Modules and Namespaces**: Organizing code into maintainable modules and namespaces.
-- **Decorators**: Using decorators to modify behavior dynamically.
+- **Introduction to TypeScript**: Basic types, debugging
+- **Advanced Data Types and Interfaces**: Advanced typing, interfaces, types vs interfaces
+- **OOP**: Object-oriented programming principles, classes, properties, methods, access modifiers
+- **Generics**: Introduction to generics, design patterns, use cases
+- **Namespaces and Modules**: Working with namespaces, imports, modules, and loading modules
+- **Decorators**: Class, method, property, and parameter decorators, decorator factories, and composition
